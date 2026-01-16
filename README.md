@@ -1,4 +1,4 @@
-# AppZeta Authorization Backend
+# AppZeta Authentication Backend
 
 **Backend API for user authentication & authorization** using Node.js, Express, JWT and MongoDB/Mongoose.
 
